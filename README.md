@@ -1,4 +1,4 @@
-# 🎬 CinePocket_JRD
+# 🎬 CinePocket
 
 > Tu gestor personal de películas en Android
 
@@ -8,9 +8,9 @@ CinePocket_JRD es una aplicación móvil diseñada para los amantes del cine que
 
 ## 👥 Equipo de Desarrollo
 
-- **Javier **
-- **Rodrigo **  
-- **Diego **
+- Javier 
+- Rodrigo 
+- Diego 
 
 ---
 
